@@ -1,2 +1,2 @@
 # dessert-order-management
-โปรแกรมจัดการคำสั่งซื้อขนม
+'web application for management dessert orders'
