@@ -22,9 +22,13 @@ Focuses on database design and backend order processing.'
 - Applying database normalization principles
 - Developing and testing Laravel-based application
 
-## Screenshots
+## Screenshots (Example)
 
 ### Login for employee
 <img src="./ภาพประกอบ/Screenshot_7-3-2025_14517_127.0.0.1.jpeg" width="500">
 
-<img src="" width="500">
+### Dessert list
+<img src="./ภาพประกอบ/Screenshot_7-3-2025_145837_127.0.0.1.jpeg" width="500">
+
+###  Order list
+<img src="./ภาพประกอบ/Screenshot_7-3-2025_14592_127.0.0.1.jpeg" width="500">
